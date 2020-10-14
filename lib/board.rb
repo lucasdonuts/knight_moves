@@ -1,5 +1,3 @@
-#It's a start. currently counting all moves instead of best ones.
-
 class Board
   def initialize
     @knight = Knight.new
